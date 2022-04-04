@@ -1,0 +1,28 @@
+{
+  "name": "meta.css",
+  "version": "1.0.0",
+  "description": "A restrained atomic css library",
+  "main": "meta.min.css",
+  "scripts": {
+    "build": "gulp --gulpfile ./scripts/gulpfile.js"
+  },
+  "keywords": [
+    "atomic",
+    "css"
+  ],
+  "author": "Yorn Qiu",
+  "license": "MIT",
+  "files": [
+    "meta.css",
+    "meta.min.css",
+    "src/*"
+  ],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0"
+  },
+  "repository": "https://github.com/yornqiu/meta.css.git",
+  "homepage": "https://github.com/yornqiu/meta.css",
+  "bugs": "https://github.com/yornqiu/meta.css/issues"
+}
