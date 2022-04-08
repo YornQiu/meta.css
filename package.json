@@ -1,7 +1,7 @@
 {
   "name": "meta.css",
   "version": "1.0.0",
-  "description": "A restrained atomic css library",
+  "description": "A simple and restrained atomic css library",
   "main": "meta.min.css",
   "scripts": {
     "build": "gulp --gulpfile ./scripts/gulpfile.js"
