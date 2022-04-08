@@ -6,11 +6,16 @@
 [![license][license-image]][license-url]
 
 
-**NPM**
+**Install**
 
 ```sh
 npm install --save meta.css
 ```
+**Use**
+```javascript
+import 'meta.css'
+```
+Then add class name in your elements as you need.
 
 ## What dose it do?
 Only provide the most commonly used and most basic css class.
