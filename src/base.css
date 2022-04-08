@@ -545,22 +545,3 @@
 .pl40 {
   padding-left: 40px;
 }
-
-/**
- * Reset
- */
-*,
-:before,
-:after {
-  box-sizing: border-box;
-}
-
-ul,
-p {
-  margin: 0;
-  padding: 0;
-}
-
-th {
-  font-weight: normal;
-}
