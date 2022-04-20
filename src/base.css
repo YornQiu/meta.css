@@ -92,6 +92,9 @@
 .vb {
   vertical-align: bottom;
 }
+.vbl {
+  vertical-align: baseline;
+}
 
 .oa {
   overflow: auto;
