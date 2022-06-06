@@ -49,6 +49,9 @@
 .df {
   display: flex;
 }
+.dif {
+  display: inline-flex;
+}
 .dfc {
   display: flex;
   flex-direction: column;
