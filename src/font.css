@@ -1,0 +1,187 @@
+.font-sans {
+  font-family: var(--font-sans, sans-serif);
+}
+
+.font-serif {
+  font-family: var(--font-serif, serif);
+}
+
+.font-mono {
+  font-family: var(--font-mono, monospace);
+}
+
+.font-xs {
+  font-size: var(--font-xs, 12px);
+}
+
+.font-sm {
+  font-size: var(--font-sm, 13px);
+}
+
+.font-base {
+  font-size: var(--font-base, 14px);
+}
+
+.font-lg {
+  font-size: var(--font-lg, 16px);
+}
+
+.font-xl {
+  font-size: var(--font-xl, 18px);
+}
+
+.font-2xl {
+  font-size: var(--font-2xl, 20px);
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+.font-lighter {
+  font-weight: lighter;
+}
+
+.font-normal {
+  font-weight: normal;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-bolder {
+  font-weight: bolder;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.text-end {
+  text-align: end;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.decoration-solid {
+  text-decoration-style: solid;
+}
+
+.decoration-double {
+  text-decoration-style: double;
+}
+
+.decoration-dotted {
+  text-decoration-style: dotted;
+}
+
+.decoration-dashed {
+  text-decoration-style: dashed;
+}
+
+.decoration-wavy {
+  text-decoration-style: wavy;
+}
+
+.upppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.normal-case {
+  text-transform: none;
+}
+
+.text-ellipsis {
+  text-overflow: ellipsis;
+}
+
+.text-clip {
+  text-overflow: clip;
+}
+
+.text-wrap {
+  text-wrap: wrap;
+}
+
+.text-nowrap {
+  text-wrap: nowrap;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.text-pretty {
+  text-wrap: pretty;
+}
+
+.vertical-baseline {
+  vertical-align: baseline;
+}
+
+.vertical-top {
+  vertical-align: top;
+}
+
+.vertical-middle {
+  vertical-align: middle;
+}
+
+.vertical-bottom {
+  vertical-align: bottom;
+}
+
+.vertical-text-top {
+  vertical-align: text-top;
+}
+
+.vertical-text-bottom {
+  vertical-align: text-bottom;
+}
+
+.vertical-sub {
+  vertical-align: sub;
+}
+
+.vertical-super {
+  vertical-align: super;
+}
